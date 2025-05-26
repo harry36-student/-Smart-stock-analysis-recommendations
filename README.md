@@ -1,1 +1,1 @@
-# -Smart-stock-analysis-recommendations
+# Smart-stock-analysis-recommendations
