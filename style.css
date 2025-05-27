@@ -1,0 +1,32 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  padding: 30px;
+  text-align: center;
+}
+
+#intro {
+  opacity: 0;
+  transition: opacity 2s ease;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+}
+
+#chat-box {
+  margin-top: 20px;
+  display: none;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 1rem;
+}
+
+#response {
+  margin-top: 20px;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  display: none;
+}
